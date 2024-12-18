@@ -1,5 +1,5 @@
 Movie Finder Application
-This is a simple movie recommendation app built with Python, designed to help you discover new movies based on your preferences. It uses the PyQt6 library for the user interface and the requests library to fetch movie data from an external API.
+This is a simple movie recommendation app built with Python, designed to help you discover new movies based on your preferences. It uses the PyQt6 library for the user interface and the requests library to fetch movie data from an external API. 
 
 Features
 Search for Movies: Easily search for movies by title.
@@ -20,6 +20,7 @@ Run the application:
 
 Copy code
 python movie_recommendation_app.py
-Enjoy Watching new movies!
+You need a API key from IMDB wich is free just create a free Account
+If your having Troubles make sure you have Python Installed
 
 Note this is a WIP and there might be more updates in the Future. If you would like to help that would be great!
