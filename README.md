@@ -35,4 +35,6 @@ If you're having trouble running the app, make sure Python is installed on your 
 Note
 This project is still a work in progress (WIP), and there will be bugs and future updates. If you'd like to contribute or help improve the app, feel free to reach out or submit pull requests!
 
+```bash
+pip install python
 
