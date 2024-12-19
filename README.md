@@ -16,24 +16,23 @@ To run the app locally, follow these steps:
    pip install PyQt6 requests
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/Duckys-code/Movie-Finder.git
+
+`git clone https://github.com/Duckys-code/Movie-Finder.git`
 Navigate into the project directory:
 
-bash
-Copy code
-cd Movie-Finder
+
+`cd Movie-Finder`
 Run the application:
 
-bash
-Copy code
-python movie_recommendation_app.py
+
+`python movie_recommendation_app.py`
 Get an API key:
 
-You need a free API key from IMDb to fetch movie data. Create a free account on IMDb and obtain an API key.
+You need a free API key from [IMDb](https://help.imdb.com/article/imdb/general-information/introducing-the-imdb-api/G49M5Y59L5N4WABM?ref_=helpart_nav_44#) to fetch movie data. Create a free account on IMDb and obtain an API key.
 
 Troubleshooting
-If you're having trouble running the app, make sure Python is installed on your system. You can download it from python.org.
+If you're having trouble running the app, make sure Python is installed on your system. You can download it [here](python.org).
 Note
 This project is still a work in progress (WIP), and there will be bugs and future updates. If you'd like to contribute or help improve the app, feel free to reach out or submit pull requests!
+
+
