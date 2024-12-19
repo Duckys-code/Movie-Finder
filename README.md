@@ -16,7 +16,7 @@ To run the app locally, follow these steps:
    pip install PyQt6 requests
 Clone the repository to your local machine:
 
-
+##
 `git clone https://github.com/Duckys-code/Movie-Finder.git`
 Navigate into the project directory:
 
