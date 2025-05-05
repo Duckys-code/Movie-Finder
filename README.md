@@ -28,7 +28,7 @@ Run the application:
 `python movie_recommendation_app.py`
 Get an API key:
 
-You need a free API key from [IMDb](https://help.imdb.com/article/imdb/general-information/introducing-the-imdb-api/G49M5Y59L5N4WABM?ref_=helpart_nav_44#) to fetch movie data. Create a free account on IMDb and obtain an API key.
+You need a free API key from [TMDB](https://www.themoviedb.org/settings/api) to fetch movie data. Create a free account on TMDb and obtain an API key.
 
 Troubleshooting
 If you're having trouble running the app, make sure Python is installed on your system. You can download it [here](python.org).
